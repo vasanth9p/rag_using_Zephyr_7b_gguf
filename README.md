@@ -1,5 +1,6 @@
 
 COLAB NOTE BOOK :- https://colab.research.google.com/drive/1jsxvfGuprTH8ZeB--XzEyZ6ygf3CX3l6?usp=sharing
+
 What is RAG?
 
 RAG, or Retrieval-Augmented Generation, is an advanced NLP technique that combines the strengths of retrieval-based and generative approaches. Unlike traditional models that generate responses solely based on input prompts, RAG leverages a retrieval mechanism to pull in relevant information from external knowledge sources before generating responses. This integration of retrieval and generation enables more contextually relevant and accurate outputs.
